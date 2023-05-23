@@ -1,6 +1,8 @@
 # git-digital-course
 Repositorio do curso Santander coders
 
+## Salvando alterações no Git
 * comando git push
-* linha de teste para nova alteração
-* alteração feita no ambiente remoto
+* comando git pull
+* comando git fetch
+
